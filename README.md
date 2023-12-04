@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @easysend1
+- 👋 Hi, I’m Riglinux
 - 👀 I’m interested in ...linux macos windows 
 - 🌱 I’m currently learning ...rig all
 - 💞️ I’m looking to collaborate on ...
